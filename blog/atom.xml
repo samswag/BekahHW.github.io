@@ -4,14 +4,14 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Bekah Hawrot Weigel's Blog</title>
+	<title>Samson Goddy's Blog</title>
 	<link href="http://BekahHW.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://BekahHW.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://BekahHW.github.io/blog</id>
 	<author>
-		<name>Bekah Hawrot Weigel</name>
-		<email>rhawrot@gmail.com</email>
+		<name>Samson Goddy</name>
+		<email>samsongoddy@gmail.com</email>
 	</author>
 
 	{% for post in site.posts %}

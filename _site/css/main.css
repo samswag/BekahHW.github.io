@@ -3,6 +3,11 @@ body {
     padding: 0;
     width: 100%;
     background-color: #a1c3d1;
+    background: url(/assets/samson.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     min-height: 50vh;
     overflow-x:hidden
 }
@@ -332,7 +337,7 @@ hr {
   display: flex;
   background-color:#a1c3d1;
   /* height: 65vh; */
-  
+
 }
 
 .links {
@@ -491,7 +496,7 @@ hr {
 }
 
 @media screen and (max-width: 415px) {
- 
+
 svg {
     width: 100%;
   }
@@ -507,7 +512,7 @@ svg {
     .links {
       color: white;
       bottom: 35%;
-  
+
     }
   .projects {
      width: 80%;
@@ -580,5 +585,5 @@ ul.navLinks li {
     padding: 0%;
     font-size: 1px;
 }
-  
+
 }

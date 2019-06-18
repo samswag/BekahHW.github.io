@@ -8,3 +8,7 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # Added at 2018-04-16 12:28:39 -0400 by bekahhw:
 gem "jekyll", "~> 3.8"
+
+group :jekyll_plugins do
+   gem "jekyll-paginate"
+end
