@@ -2,8 +2,7 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
-    background-color: #a1c3d1;
-    background: url(/assets/samson.jpg) no-repeat center center fixed;
+    background: url(/assets/samson4.jpg) no-repeat center center fixed ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -120,8 +119,9 @@ header {
 
 #headline_name {
     font-family: 'Quicksand', sans-serif;
-    color: #44318D;
+    color: #202021;
     font-size: 3em;
+    font-weight: bold;
 }
 
 #line {
@@ -134,7 +134,7 @@ header {
 #headline {
     font-family: 'Quicksand', sans-serif;
     font-size: 2em;
-    color: #8B008B;
+    color: #fcfcff;
 }
 
 .title {
@@ -177,7 +177,7 @@ header {
 
 a {
     text-decoration: none;
-    color: #5f6268;
+    color: #ffffff;
 }
 
 a:hover {
