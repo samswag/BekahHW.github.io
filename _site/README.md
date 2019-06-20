@@ -1,4 +1,4 @@
-# BekahHW.github.io
+# samswag.github.io
 
 To run this project locally:
 - fork and clone the repository
